@@ -1,0 +1,5 @@
+msg.linkReport = "https://reports.avalara.com/";
+msg.downloadFolder = "D:\\OneDrive\\SyncProject\\SaleTax\\Download\\";
+msg.reportFileName = "Sales-and-Sellers-Use-Tax-Jurisdiction-Detail-Combined-Extended.xls";
+msg.reportFilePath = msg.downloadFolder + msg.reportFileName;
+return msg;
